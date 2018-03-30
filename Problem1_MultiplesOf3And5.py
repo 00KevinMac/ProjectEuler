@@ -1,3 +1,5 @@
+# We need to find the sum of all numbers divisible by 3 and by 5 up to 1000
+
 sum = 0
 
 for x in range(3, 1000):
